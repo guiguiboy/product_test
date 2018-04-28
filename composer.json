@@ -1,0 +1,17 @@
+{
+    "name": "guigui/product_test",
+    "authors": [
+        {
+            "name": "Guiguiboy",
+            "email": "guillaume.bretou@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Guigui\\ProductTest\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7.1"
+    }
+}

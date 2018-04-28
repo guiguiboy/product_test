@@ -1,0 +1,22 @@
+{
+  "Origin":"",
+  "pdctMinMaxPrepPoidsVariable":"",
+  "price":{
+    "period":{
+      "begin":"2017-04-07T00:00:00"
+    },
+    "values":{
+      "standard":0.9,
+      "currency":"EUR"
+    }
+  },
+  "productId":"0000030000117",
+  "pdctCLP_picto_AcideMain":"false",
+  "ean":"0000030000117",
+  "pdctValNutriGlucides":"0.5",
+  "pdctFlagProduitTerroir":"true",
+  "pdctMadeInFrance":"true",
+  "functionalName":"Pâté de porc au sel de guérande Hénaff",
+  "pdctEggIncluded":"",
+  "flagSpecialiteTradGarantie":"false"
+}
